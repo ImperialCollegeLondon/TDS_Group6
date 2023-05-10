@@ -1,2 +1,4 @@
-# Ignore all csv files (they contain sensitive Biobank data)
+# Ignore all csv, rds and xlsx files (they contain sensitive Biobank data)
 .csv
+.rds
+.xlsx
