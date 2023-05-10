@@ -1,0 +1,2 @@
+The LogRegression_Tukey file contains the code used to perform multinomial logistic regression with cluster membership as the outcome
+It also contains the code used to perform an ANOVA and Tukey test. 
