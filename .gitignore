@@ -1,1 +1,2 @@
-
+# Ignore all csv files (they contain sensitive Biobank data)
+.csv
