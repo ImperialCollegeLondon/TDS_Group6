@@ -1,1 +1,1 @@
-
+LogisticRegressionBloodCancer contains the code used to perform a logistic regression with blood cancer as the outcome and blood counts/clusters with covariates as predictors. 
